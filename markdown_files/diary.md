@@ -1,4 +1,4 @@
-2026/7/24 4:23PM <br>
+2026/7/24 4:23PM ~ 2026/7/24 5:32PM <br>
 Although i use direct communication style that conveys literal meaning, i believe that indirect communication style (such as using metaphors) itself is neither inherently good nor bad. But if many people expect that their messages will be interpreted as having benevolent and ethical intentions, i believe this is very good news for everyone. And i believe that if people try to find ways to enlarge 'pie' rather than focusing on 'zero-sum game', that may be one of a meaningfully memorable form of leadership in global history. Refelecting on history, focusing on enlarging the 'pie' looks not impossible. For example, if there are more and more cleaner and reliable energy sources, more lives are benefited as far as i learned! And i'm always very happy when i see the global collaborations across academia and insdustry (of course within academia and within industry as well) (of course if there are the collaborations with Korean, it would be awsome as well!) <br>
 
 2026/7/21 3:14PM <br>
