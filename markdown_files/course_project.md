@@ -21,6 +21,8 @@ Because i was too passionate to this course as well, i volunteered to present 1 
 Portfolio: [https://docs.google.com/document/d/1u\_VXFlOSDNbwr-pYXGD0cFZ1luSZDLqL/edit?usp=drive\_link\&ouid=109687750351977204817\&rtpof=true\&sd=true](https://docs.google.com/document/d/1u_VXFlOSDNbwr-pYXGD0cFZ1luSZDLqL/edit?usp=drive_link&ouid=109687750351977204817&rtpof=true&sd=true)  
 Final Project Video:  
 [https://drive.google.com/file/d/1YCEb4W0P8gq6fWj7K-iZkl41DeV0j5kW/view?usp=drive\_link](https://drive.google.com/file/d/1YCEb4W0P8gq6fWj7K-iZkl41DeV0j5kW/view?usp=drive_link)  
+Literature Review (XR for Rotics):
+[https://drive.google.com/file/d/1Bh5SWn-AfvtDIPRp3E19mou_4UMxZMn3/view?usp=drive_link](https://drive.google.com/file/d/1Bh5SWn-AfvtDIPRp3E19mou_4UMxZMn3/view?usp=drive_link)  
 i appreciate Professor D. Livingston McPherson for the invaluable lessons 🙇‍♀️  
 In addition, i appreciate all the teammates who collaborated together as well 😀: Julia Stein, Abhinav Angirekula, Chi Jay Xu, Haochen Tong, Runying Chen, Sachidanand (timely ordered)
 
