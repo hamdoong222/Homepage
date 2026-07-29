@@ -1,3 +1,6 @@
+2026/7/29 5:21PM <br>
+i think the design elements such as colors and bold formatting are, of course valuable, therefore, i used for visual emphasis in research articles as well. i appreciate having been trained to always try my best to transparently report the procedures and results of baseline methods through their best-performing implementations at the time.<br>
+
 2026/7/28 9:03AM <br>
 Maybe i'll start to create a page that collects several open lectures related to my research interests, together with attribution and links to their original sources with my very best, as a small day-off project to celebrate my recent research progress. i hope this would be useful even a little bit to others as well! :D<br>
 
