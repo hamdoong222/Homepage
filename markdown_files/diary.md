@@ -1,3 +1,6 @@
+2026/8/9 11:38PM <br>
+Preparing PhD applications gives severer stresses and pressures this time.. it is frustrating that it feels like i cannot handle this well enough.<br>
+
 2026/8/9 9:47AM <br>
 i like learning what i do not know from others especially about research, regardless of their age, gender, seniority, academic position, or other conditions (of course in the safe, respectful, and constructive atmosphere to each other) and i hope this can be understood as not wierd.. It would be even better if instructors encourage me not to feel intimidated when asking questions or learning something i do not yet know! <br>
 
