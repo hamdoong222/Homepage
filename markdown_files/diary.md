@@ -1,3 +1,6 @@
+2026/8/13 9:00AM <br>
+Expressing the good gratitue is difficult, certainly.. <br>
+
 2026/8/9 11:38PM <br>
 Preparing PhD applications gives severer stresses and pressures this time.. it is frustrating that it feels like i cannot handle this well enough.<br>
 

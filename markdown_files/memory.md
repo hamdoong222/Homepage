@@ -1,21 +1,27 @@
-This is a personal record of my sincere respect and gratitude for the supervision and lessons I have received throughout my academic journey. 
+i share these acknowledgments simply to express my sincere appreciation for what i have learned from each person, without expecting in return. i also hope to recognize their contributions to my learning as accurately as i can. For a long time, i thought that if i began by sincerely appreciating and respecting my supervisors and mentors, this appreciation might encourage others to value their own supervisors and mentors as well. i hoped that such a culture of mutual respect and appreciation could make academic communities a little warmer and more positive toward humanuty. i believe that 스승님들 are beyond the providers of educational services, but can be meaningful mentors in people's lives. i have hoped that all the mentors will be more widely valued and appreciated because i believe that learning can help change people's lives in the good way. 
 
-In particular, I am deeply grateful for Professor Jae Sung Lee for the the longest and continuing supervision including 2 international journal publications and 2 progressing work during and after the master's degree, Professor Bohyung Han for the continuing supervision including 1 progressing work after my graduation of master's degree at Seoul National University, and Professor Hionn Kim for 2 domestic conference publications when I was an undergraduate student at Ewha Womans University. Their guidance has had significant influence on my growth as and on the way for the learning, research, and academic life. 
+In particular, i am sincerely grateful to Professor Jae Sung Lee for his longest and continuing supervision during and beyond my master's studies. Under his supervision, i learned how to study the literature, formulate research questions, and advance them in the intersection of medicine and artificial intelligence, including federated learning, explainable AI, multimodal foundation models, and the medical translations. His supervision has contributed to significantly on how to better research including several of my research works (two international journal publications and ongoing studies). i sincerely appreciate all the opportunities, guidance, and lessons that Professor Lee and FMISL have given me as well.
 
-I appreciate Professor Dilek Hakkani-Tur and ConvAI team, Professor Hyungjin Chung, and Professor Jong Chul Ye for the direct supervision, Dr. Ansel Blume for the continuing mentorship, Jeonghwan Kim for the previous mentorship (the supervisions and mentorship has no contract except for the supervision from the Professor Jae Sung Lee during my master's degree). I also grateful to the many professors, 선후배님들 (or colleagues) from whom I have had the opportunity to learn. 
+i am also deeply grateful to Professor Bohyung Han for his supervision during his course and for his supervision after my master's graduation. The lessons i have learned from CVLab have also been invaluable to me. Through the ongoing study on multi-modal motion editing, i have been able to deepen my understanding in computer vision and artificial intelligence as well.
 
-I believe that 스승님들 are not simply providers of educational services, but can be meaningful mentors in people's lives. I have hoped that teachers and mentors will be more widely valued and appreciated because I believe that learning is precious and can help change people's lives for the better. I also believe that greater appreciation for teaching and mentorship can contribute, even in a small way, to a more benevolent and warmer world.
+i sincerely thank Professor Hionn Kim for her supervision of my year-long capstone design project as an undergraduate student and for her continuing support. Under his supervision, i had the opportunity to develop an emergency care system and explore generative-model-based data augmentation as well.
 
-For a long time, I thought that if I began by sincerely appreciating and respecting my supervisors and mentors, this appreciation might encourage others to value their own supervisors and mentors as well. I hoped that such a culture of mutual respect and appreciation could make academic communities a little warmer and more positive. Looking back, I would now like to express this appreciation in a way that is more comfortable for everyone to read and less open to misunderstanding.
+i greatly appreciate Professor Dilek Hakkani-Tür for her supervision during her course Advanced Topics in NLP and Conversational AI, via that i was able to learn more about research in large language models and embodied AI. i am also sincerely grateful for the lessons and research experiences i gained from the ConvAI as well.
+
+i am sincerely grateful to Professor Hyungjin Chung for his supervision on my ongoing study, previously termed Knowledge Mixer, and to Professor Jong Chul Ye for his supervision during my undergraduate research internship as well.
+
+i am also thankful to Dr. Ansel Blume and Jeonghwan Kim for their mentorship on vision-language-action (VLA) research as well.
+
+i am grateful to the many professors, senior and junior colleagues, and peers from whom i have had the opportunity to learn. All the guidance and lessons i recieved have influenced my academic growth and the way i approach learning, research, and academic life.
 
 <div align="center">
 <p align="center">
   <img src="images/image13.png" style="width:145px; height:180px; object-fit:contain;">
   <img src="images/image9.png" style="width:140px; height:180px; object-fit:contain;">
-  <img src="images/image48.png" style="width:170px; height:180px; object-fit:contain;">
   <img src="images/image8.png" style="width:140px; height:180px; object-fit:contain;">
+  <img src="images/image48.png" style="width:170px; height:180px; object-fit:contain;">
   <img src="images/image35.png" style="width:150px; height:180px; object-fit:contain;">
-  I appreciate the official and direct academic supervision 🙇‍♀️
+  i appreciate the official, unofficial supervision 🙇‍♀️
 </p>
 <p align="center">
 <img src="images/image14.png" height="200"><img src="images/image27.png" height="200">
@@ -68,8 +74,7 @@ This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/e
 <p align="center">
 <img src="images/image50.png" height="400"> 
 </p>
-평생 잊지 못할 팀플, 영광이고 감사해요
-모두 원하는 꿈들을 다 이루시기를
+평생 잊지 못할 팀플, 이끌어주셔서 광이고 감사해요. 모두 원하는 꿈들을 다 이루시기를!
 
 **KoSAIM (2023)**
 <p align="center">
