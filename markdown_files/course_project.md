@@ -28,7 +28,7 @@ In addition, i appreciate all the teammates who collaborated together as well ðŸ
 
 **\[CS546\] Advanced Topics in NLP (Fall 2025\)**  
 Final Report:
-[https://drive.google.com/file/d/1KL-0gVUkOd3YjFWbtk9iYKKqsc640QG9/view?usp=drive_link](https://drive.google.com/file/d/1KL-0gVUkOd3YjFWbtk9iYKKqsc640QG9/view?usp=drive_link)
+[https://drive.google.com/file/d/1KL-0gVUkOd3YjFWbtk9iYKKqsc640QG9/view?usp=drive_link](https://drive.google.com/file/d/1KL-0gVUkOd3YjFWbtk9iYKKqsc640QG9/view?usp=drive_link) <br>
 i appreciate all the co-authors, who are Haojin Wang, Jason Liao, Larry Liao, Leo Lu and the supervision from Professor Dilek-Hakkani-TÃ¼r. i'm sincerely grateful for all the lessons! :D
 
 **\[CS598\] 3D Vision (Fall 2025\)**  
