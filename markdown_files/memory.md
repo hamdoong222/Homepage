@@ -6,7 +6,7 @@ i am also deeply grateful to Professor Bohyung Han for his supervision during hi
 
 i sincerely thank Professor Hionn Kim for her supervision of my year-long capstone design project as an undergraduate student and for her continuing support. Under his supervision, i had the opportunity to develop an emergency care system and explore generative-model-based data augmentation as well.
 
-i greatly appreciate Professor Dilek Hakkani-Tür for her supervision during her course Advanced Topics in NLP and Conversational AI, via that i was able to learn more about research in large language models and embodied AI. i am also sincerely grateful for the lessons and research experiences i gained from the ConvAI as well.
+i greatly appreciate Professor Dilek Hakkani-Tür for her supervision during her course Advanced Topics in NLP and Conversational AI, via that i was able to learn more about research in natural language processing, large language models and embodied AI. i am also sincerely grateful for the lessons and research experiences i gained from the ConvAI as well.
 
 i am sincerely grateful to Professor Hyungjin Chung for his supervision on my ongoing study, previously termed Knowledge Mixer, and to Professor Jong Chul Ye for his supervision during my undergraduate research internship as well.
 
