@@ -26,6 +26,11 @@ Literature Review (XR for Rotics):
 i appreciate Professor D. Livingston McPherson for the invaluable lessons 🙇‍♀️  
 In addition, i appreciate all the teammates who collaborated together as well 😀: Julia Stein, Abhinav Angirekula, Chi Jay Xu, Haochen Tong, Runying Chen, Sachidanand (timely ordered)
 
+**\[CS598\] Advanced Topics in NLP (Fall 2025\)**  
+Final Report:
+[https://drive.google.com/file/d/1KL-0gVUkOd3YjFWbtk9iYKKqsc640QG9/view?usp=drive_link](https://drive.google.com/file/d/1KL-0gVUkOd3YjFWbtk9iYKKqsc640QG9/view?usp=drive_link)
+i appreciate all the co-authors, who are Haojin Wang, Jason Liao, Larry Liao, Leo Lu and the supervision from Professor Dilek-Hakkani-Tür. i'm sincerely grateful for all the lessons! :D
+
 **\[CS598\] 3D Vision (Fall 2025\)**  
 **Report: Exploratory Study of Reinforcement Learning and Imitation Learning (December 2025\)**  
 Under the direction of the Professor who led the class, our group focused on the exploratory study 🙇‍♀️Although there was a little difference between the what we pursue among teammates, i sincerely appreciate all of them 😄i did not included the institutional information to be respectful for both institutions (SNU, UIUC, Alphabetical order)  
