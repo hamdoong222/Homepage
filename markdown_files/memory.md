@@ -12,7 +12,7 @@ i am grateful to Professor Hyungjin Chung for his supervision on my ongoing stud
 
 i am also thankful to Dr. Ansel Blume and Jeonghwan Kim for their mentorship on vision-language-action (VLA) research as well.
 
-i am grateful to all the professors, senior and junior colleagues, and peers from whom i have had the opportunity to learn. Their guidance and lessons i recieved have influenced my academic growth and the way i approach learning, research, and academic life.
+i am grateful to all the professors, senior and junior colleagues, and peers from whom i have had the opportunity to learn. Their guidance and lessons i recieved have influenced my academic growth and the way i approach learning, research, and academic life. 
 
 <div align="center">
 <p align="center">
@@ -21,12 +21,11 @@ i am grateful to all the professors, senior and junior colleagues, and peers fro
   <img src="images/image8.png" style="width:140px; height:180px; object-fit:contain;">
   <img src="images/image48.png" style="width:170px; height:180px; object-fit:contain;">
   <img src="images/image35.png" style="width:150px; height:180px; object-fit:contain;">
-  i appreciate the official, unofficial supervision 🙇‍♀️
 </p>
 <p align="center">
 <img src="images/image14.png" height="200"><img src="images/image27.png" height="200">
 </p>
-Waiting for the Professors (은사님들) and hoping for their career expansion to UIUC as well
+i wish the Professors and their academic communities continued success, appreciating all their supervision 🙇‍♀️
 <div style="font-size: 7px; margin-bottom: 10px;">
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
 </div>
