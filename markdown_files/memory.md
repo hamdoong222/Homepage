@@ -25,7 +25,7 @@ i am grateful to all the professors, senior and junior colleagues, and peers fro
 <p align="center">
 <img src="images/image14.png" height="200"><img src="images/image27.png" height="200">
 </p>
-i wish the Professors and their academic communities continued success, appreciating all their supervision 🙇‍♀️
+i wish the Professors and their communities continued success, appreciating all their supervision 🙇‍♀️
 <div style="font-size: 7px; margin-bottom: 10px;">
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
 </div>
