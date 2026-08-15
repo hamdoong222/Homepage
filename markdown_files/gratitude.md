@@ -16,12 +16,3 @@ This record is a personal testament of my sincere heart, faith and reverence, de
 🌟i think 스승님들 is not a service provider, but a genuine mentor of lives. So i have hoped and hoping 스승님들 to be more valued and appreciated, loved from more lives (must be forgotten, because it was long time ago), because learning is precious because that changes lives into better way as i believe. And i have believed and am believing this would lead to a more benevolent and warmer (not the physical temperature of course when i use this word to human or world) world. And i thought, “If i start to appreciate and protect 스승님들, and proactively love them, more lives (even a little bit) would respect and love them, that could make them to be happier\! And this is correct and will be positive in the mountain view as well\!”.   
 🌟 Therefore, i Respectfully ask that all of you refrain from clicking any buttons to my posts or comments, etc, and i respectfully ask to cancel it if you did because "Their Achievements, Contributions, and Presence are Invaluable and Immeasurable" beyond numbers, at least to me 🙇‍♀️. 
 
-<br>
-
-⚡️ *Lecture of PROFESSOR 𝗕𝗢𝗛𝗬𝗨𝗡𝗚 𝗛𝗔𝗡*
-* The Present and the Future of Computer Vision and Deep Learning (2021): https://www.youtube.com/watch?v=Tjz5M75Uw5w\&t=5561s <br>
-
-⚡️ *Lecture of PROFESSOR 𝗝𝗔𝗘 𝗦𝗨𝗡𝗚 𝗟𝗘𝗘* 
-* The Seminar of Nuclear Engineering \- Nuclear Medicine (2023): https://www.youtube.com/watch?v=n7y0HBR3cFQ\&t=2012s
-* The Evolving Roles of AI in Nuclear Medicine (2026): https://www.youtube.com/watch?v=JjA1Z0HlCRE 
-
