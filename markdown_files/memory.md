@@ -73,7 +73,7 @@ This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/e
 <p align="center">
 <img src="images/image50.png" height="400"> 
 </p>
-평생 잊지 못할 팀플, 이끌어주셔서 광이고 감사해요. 모두 원하는 꿈들을 다 이루시기를!
+평생 잊지 못할 팀플, 이끌어주셔서 영광이고 감사해요. 모두 원하는 꿈들을 다 이루시기를!
 
 **KoSAIM (2023)**
 <p align="center">
