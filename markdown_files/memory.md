@@ -115,7 +115,8 @@ This image is from: Gemini-Pro-3.0 at March 2026
 
 <p align="center">
 <img src="images/image1.png" height="300"><img src="images/image44.png" height="300">
-
+</p>  
+<p align="center">
 * *“Man lernt nur von dem, den man liebt.” \- Johann Wolfgang von Goethe*  
 * *学莫便乎亲师 \- 荀子*
 </p>   
