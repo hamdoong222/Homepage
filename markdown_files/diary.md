@@ -1,5 +1,5 @@
 2026/8/18 12:04PM <br>
-i've learned through my own learning including the history of evolution of technology ans society that although it may sound a little ironic, humanity is the fundamental foundation of accelerating innovation that enables broader impact of humanity because with this value, no one should be banned to move it forward because of the discriminative reasons such as nationality, race, and more. <br>
+i've learned through my own learning including the history of evolution of technology and society that although it may sound a little ironic, humanity is the fundamental foundation of accelerating innovation that enables its benefits to reach more broadly because with this value, no one should be banned to move it forward because of the discriminative reasons such as nationality, race, and more. <br>
 
 2026/8/13 9:00AM <br>
 Expressing the good gratitue is difficult, certainly.. <br>
