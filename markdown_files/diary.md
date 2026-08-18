@@ -1,3 +1,6 @@
+2026/8/18 12:04PM <br>
+i've learned that although it may sound a little ironic, humanity is the fundamental foundation of accelerating innovation because no one should need permission to move humanity forward, regardless of nationality, race, and more. <br>
+
 2026/8/13 9:00AM <br>
 Expressing the good gratitue is difficult, certainly.. <br>
 
