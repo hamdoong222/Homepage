@@ -1,1 +1,1 @@
-this diary would be summarize
+this diary would be summarized
