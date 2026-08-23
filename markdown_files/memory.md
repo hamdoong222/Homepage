@@ -30,7 +30,7 @@ i wish continued success of the Professors and the communities they belong to, w
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
 </div>
 
-**With Respect and Gratitude for the lessons from Professors (은사님들)**  
+**With Respect and Gratitude for the Lessons Under Professors (은사님들)**  
 <p align="center">
 <img src="images/image6.png" height="100"> <img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image6.png" height="100"> 
 </p>  
