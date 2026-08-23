@@ -84,7 +84,6 @@ In addition, i appreciate Prof. Jong Chul Ye for the supervision during my under
 
 **IEEE NPSS Seoul Chapter (2023)**   
 <div style="font-size: 7px;  margin-bottom: 100px;">
-i apologize that i cannot remember who took this picture for me T.T.. but i appreciate it \!\!  
 i appreciate for all the people who granted lessons to me to make me more professional
 </div>
 
