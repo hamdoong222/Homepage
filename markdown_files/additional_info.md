@@ -24,4 +24,4 @@ edited (2026/8/23)
 🌟 Although i'm quite afraid of about it, i appreciate if anyone shares the literal contents of the studies that i particiapted if those can be useful for anyone as well (but i think preserving the postings expressing only respects for the 은사님들 are preserved as it is maybe better to be more respectful..?).🙇‍♀️
 🌟 i’m sincerely grateful for every lesson and protection so i just hope to dedicate myself to honoring who have granted me those, both in the past and in the present 🙇‍♀️
 🌟 Recently updated “Ideas” page contains the ideas shared there are not copyrighted as always. Mentioning the source would be appreciated, but it is completely optional :D
-🌟 i endorse research to contribute more peaceful world where there is no need for the existence of weapon
+🌟 i endorse research that contribute to more peaceful world where there is no need for the existence of weapon
