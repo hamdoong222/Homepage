@@ -74,8 +74,8 @@ This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/e
 <img src="images/image50.png" height="400"> 
 </p>
 평생 잊지 못할 팀플, 이끌어주셔서 영광이고 감사해요. 모두 원하는 꿈들을 다 이루시기를!
-
-<br>
+<div style="font-size: 7px;  margin-bottom: 100px;">
+</div>
 
 **KoSAIM (2023)**
 <p align="center">
@@ -83,15 +83,13 @@ This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/e
 </p>
 i appreciate Prof. Jae Sung Lee for the supervision so i can have a precious opportunity for the presentation as well. <br>
 In addition, i appreciate Prof. Jong Chul Ye for the supervision during my undergraduate internship.
-
-<br>
-
-**IEEE NPSS Seoul Chapter (2023)**   
 <div style="font-size: 7px;  margin-bottom: 100px;">
-i appreciate for all the people who granted lessons to me to make me more professional
 </div>
 
-<br>
+**IEEE NPSS Seoul Chapter (2023)**   
+i appreciate for all the people who granted lessons to me to make me more professional
+<div style="font-size: 7px;  margin-bottom: 100px;">
+</div>
 
 <p align="center">
 <img src="images/image30.png" height="200"> 
