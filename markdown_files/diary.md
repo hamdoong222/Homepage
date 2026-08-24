@@ -1,1 +1,1 @@
-I plan to organize and preserve my previous posts expressing gratitude and respect for the professors and the people who have guided and taught me in a separate reflection, while keeping my LinkedIn profile focused on research.
+I plan to refine communication and preserve my previous posts to more effectively express gratitude and respect for the professors and the people who have guided and taught me, while keeping my LinkedIn postings and profile focused on research.
