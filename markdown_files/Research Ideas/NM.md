@@ -1,12 +1,13 @@
-**Constructing Open Benchmark Datasets in Nuclear Medicine (July 2026)** <br>
+**Constructing Open Benchmark Datasets in Nuclear Medicine (July 2026 - August 2026)** <br>
 Inspired under Professor Jae Sung Lee <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 
 * ENHANCE.PET 1.6k: https://www.scidb.cn/en/detail?dataSetId=c06e548588694eca8477006e806ed70d <br>
 * Myocardial perfusion scintigraphy image database: https://physionet.org/content/myocardial-perfusion-spect/1.0.0/<br>
 * OASIS: https://sites.wustl.edu/oasisbrains/home/access/ <br>
+* Open NeuroPET: https://openneuropet.github.io/?utm_source=chatgpt.com <br>
 * TCIA cancer imaging archive: https://www.cancerimagingarchive.net/browse-collections/<br>
-* Related Challenges: AutoPET, HECKTOR, PETRIC<br>
+* Related Challenges: AutoPET, HECKTOR, PETRIC, UDPET<br>
 
 Although there are pioneering studies that have advanced Nuclear Medicine as well, the shortage of benchmark datasets remains a bottleneck in advancing Nuclear Medicine and its harmonization with AI. The listed datasets can be used to construct the public benchmark datasets that are more easy to use to thoroughly evaluate the performances of various methodologies accross various tasks in nuclear medicine. In addition, there are available data from the publications that are related to the Nuclear Medicine as well. i hope there would be more of these kind of advancements as well! :D.  <br>
 
