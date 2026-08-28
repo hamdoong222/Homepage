@@ -14,7 +14,7 @@ The task examples that are obtained from the ChatGPT are as follows: Acquisition
 
 <br>
 
-**Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution (June 2026)**<br>
+**Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution (June 2026 - August 2026)**<br>
 Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School, Professor Abhijit Chaudhari <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 
@@ -24,11 +24,13 @@ We hypothesize that these limitations can be substantially mitigated through lar
 
 Future work can be expanded to uncertainty-aware and quantification-preserving PET resolution recovery beyond precision imaging considering the inherent stochastic nature of PET imaging, and building rigorous validation framework (Liu et al., 2026) with the ground truth images (reference images) that can be generalizable across diverse scanners, institutions, patient demographics, hyper-parameter settings, tracers to ensure clinical reliability efficiency. <br>
 
-The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image obtain from a single patient at the same status (within several hours or days based on affordability), then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
+The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtain from a single patient at the same status (within several hours or days based on affordability), then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
 
 Reference <br>
 
 Liu, Yan, et al. "NGSE-Corr: A technique for objective clinical evaluation of quantitative-imaging methods without a gold standard." IEEE Transactions on Medical Imaging (2026). <br>
+
+Hinge, Christian, et al. "A multimodal total-body dynamic [18F] FDG PET/CT/MRI dataset of 100 healthy humans." Scientific Data (2026). <br>
 
 <br>
 
