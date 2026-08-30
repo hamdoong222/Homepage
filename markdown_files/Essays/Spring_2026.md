@@ -1,4 +1,4 @@
-# Spring 2026 — Learning, Mentorship, and the Direction of My Research 
+# Spring 2026 — Foundations That Have Shaped My Research Journey
 
 ## Lessons to See Research as a Continuum
 
@@ -12,7 +12,7 @@ This spring, I continued to think carefully about the difference between develop
 
 I am grateful to Profssor Jae Sung Lee for the advice, supervision, lessons, and encouragement that made much of this learning possible. I remember his guidance when I did not well understand the values of the direction of the research topics, such as federated learning, and how he encouraged me to think about why a research direction might matter even when its future value is not yet obvious. That experience became one of the important turning points for how I better understand research values. I am also grateful for the supervision on the head and neck cancer diagnostic assistant project, nevigating various discussions and limitations, such as resource constransts, privacy concerns, and controversy about AI. Profssor Jae Sung Lee's earlier discussion of robotics in a lab meeting was also one of the first reasons I became curious about robotics. Also, I learned that medical data can be difficult, heterogeneous, and very different from clean benchmark datasets, which necessitizing more of the benchmark datasets and evaluation metrics that can well reflects real-world medical environments. 
 
-## Expanding AI, Medicine, and Robotics, Toward Conversational Agentic AI Systems
+## Expanding AI, Medicine, and Robotics Toward Conversational Agentic AI Systems
 
 I have also continued to learn from Professor Bohyung Han, whose lessons influenced how I think about conputer vision as one of the cooperative essential component for the multimodal research. I am grateful not only for specific research inspirations, but also for the lessons about how to be more pioneering, creative, and consider benevolent broad impact of reseach. The motion editing research that I conducted through these lessons that may be later connected to robotics were important parts of this process.
 
