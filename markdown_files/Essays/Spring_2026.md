@@ -1,6 +1,6 @@
 # Spring 2026 — Foundations That Have Shaped My Research Journey
 
-## Lessons to See Research as a Continuum
+## Research as a Continuum
 
 Looking back on this spring, I recently think that one of the most important things I have learned is that research does not exist as a collection of isolated achievements. New studies are grounded in previous knowledge, and even work that is later surpassed can remain meaningful because it becomes part of the foundation for what comes next. This perspective has helped me appreciate research less as a competition and more as a continuing process of building knowledge together.
 
