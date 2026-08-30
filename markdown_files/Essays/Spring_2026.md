@@ -1,4 +1,4 @@
-# Spring 2026 — Foundations That Have Shaped My Research Journey
+# Foundations That Have Shaped My Research Journey
 
 ## Research as a Continuum
 
