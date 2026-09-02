@@ -20,40 +20,28 @@ After I entered UIUC as a MCS student, Professor Dilek Hakkani-Tür's Advanced T
 
 I am also grateful to Professor Shenlong Wang as well, for the inclusive and encouraging atmosphere for developing larger creativity, and the invaluable knowledge about Computer Vision and Robotics I learned during the 3D Vision course. During the course projects, I could learn more about focusing on the physical AI-based agents sucha as robots powered by embodied AI within the simulated MuJoCo environment, and the views for more pioneering and creative research, that can have the benevolent impacts for our society. Likewise, I sincerely appreciate Professor Livingston McPherson for the lessons about ethics, kindness, and knowledge across Virtual Reality course. That course also helped me experience collaboration with different team members in a structured environment with various team projects and made me think more seriously about Extended Reality (XR) as the integral part of the effective physical AI and robotics ecosystems.
 
+## Further Gratitude for the People Who Made Learning Possible
+
+This spring, I became more aware that none of my learning or research progress was produced by me alone. I have been helped by professors, seniors, juniors, classmates, institutions, all the colleqgures, and people who shared their knowledge publicly, hoping to be a 'moon', which is a tiny part in their universe. 
+
+I remain grateful to **Ewha Womans University, Seoul National University, and the University of Illinois Urbana-Champaign** for different stages of my academic growth. Each institution gave a invaluable lessons to me, beyond the comparisons. I also remain grateful to the pioneers, and leaders in **Nuclear Medicine**, a field in which I learned more thoroughly about how closely scientific innovation can be connected to saving lives.
+
+I am also thankful for the lessons and examples of researchers and educators such as **Andrew Ng, Fei-Fei Li, and Yoshua Bengio**, whose work and public educational contributions have repeatedly reminded me that broad access to knowledge can change people's lives as well. More generally, I appreciate the people who make lectures, papers, workshops, and research discussions accessible beyond their immediate institutions.
+
+I also remain grateful to my collaborators for their work, with whom I worked on interpretable AI, who are **Sangyoon Bae, Gawon Lee, Jonghae Park, and Si Young Yie**. I sincerely appreciate **Takyoung** as well for the advice and feedback I received during CS598 Conversational AI. I also wanted to celebrate **Ada Tur**'s good news, even though I felt a little shy because it was my first time expressing that directly to **Ada Tur**. Although I had not met **Parisa Rabbani** personally, I remember being impressed by the brilliance of the inpiring work about reducing undesirable hallucinations, that I also have interested in.
+
+I also appreciate **Professor Philipp T. Meyer**, **Professor Dorin Comaniciu** and **Professor Simon Cherry** because of my further learning about the possibility of constructive alliances and collaborations among researchers and fields, rather than framing different academic communities as competitors. Of course, I appreciated all the the lessons received from them as well. 
+
+About my clinical AI studies, I especially inpired by the work of **Professor Curtis Langlotz**, who are a pioneering researcher on computer-aided diagnosis and evaluation following the supervision of **Professor Jae Sung Lee** as well. This was an important reminder that gratitude in research is not limited to people who supervise me directly. I also learn from researchers whose published work becomes a foundation for my own decisions.
+
 ... currently editing
 
-<!-- ## Gratitude for the People Who Made Learning Possible
-
-This spring, I became more aware that none of my learning or research progress was produced by me alone. I have been helped by professors, collaborators, seniors, juniors, classmates, institutions, and people who shared their knowledge publicly. I want to preserve that gratitude rather than compressing all of those contributions into a generic acknowledgement.
-
-I remain grateful to **Ewha Womans University, Seoul National University, and the University of Illinois Urbana-Champaign** for different stages of my academic growth. Each institution has a different meaning to me, and I do not want to reduce that meaning to rankings or prestige. I also remain grateful to the researchers, pioneers, and leaders in **Nuclear Medicine**, a field in which I first learned how closely scientific innovation can be connected to saving lives.
-
-I am also thankful for the lessons and examples of researchers and educators such as **Andrew Ng**, whose work and public educational contributions have repeatedly reminded me that broad access to knowledge can change people's lives. More generally, I appreciate the people who make lectures, papers, workshops, and research discussions accessible beyond their immediate institutions.
-
-## The Kind of Research Environment I Hope For
+<!-- ## The Kind of Research Environment I Hope For
 
 Another thought that became clearer to me this spring is that a productive research environment should be transparent, constructive, and safe enough for people to ask questions, make mistakes, and improve. I increasingly value clear supervision, fair evaluation, reproducible research practices, and critiques that identify limitations while also helping people refine their work.
 
 I do not think the disclosure of a limitation makes research meaningless. In many cases, acknowledging limitations is exactly what makes future work possible. I would like to become a researcher who can receive criticism without treating it as a personal attack, while also learning how to give criticism in a way that is useful, specific, and respectful.
 
-
-## Remembering More of the People I Learned From
-
-Looking back more carefully, I do not want my gratitude from this spring to sound as if it was limited only to a few principal mentors. There were many other people whose lessons, feedback, examples, warmth, or scholarly work became part of what I learned.
-
-I sincerely appreciate **Takyoung** for the advice and feedback I received, and I remember wishing for the continued growth of the research that interests him. I also wanted to celebrate **Ada Tur** and her good news, even though I felt a little awkward because it was my first time expressing that directly. I remain grateful to my collaborators as well, especially the people with whom I worked on interpretable AI.
-
-Although I had not met **Parisa Rabbani** personally, I remember being impressed by both her brilliance and the warmth I perceived from her, and I sincerely wished for her continued success. These experiences reminded me that learning can also happen through observing how other researchers communicate, collaborate, and treat people.
-
-I also wrote with gratitude about **Prof. Dorin Comaniciu** and **Prof. Simon Cherry**. I valued the possibility of constructive alliances and collaborations among researchers and fields, rather than framing different academic communities as competitors. In particular, I appreciated the scholarly review, collegiality, and support that I associated with these broader research relationships.
-
-I am also sincerely grateful to **Prof. Philipp T. Meyer**. I appreciated his long-standing collegial relationship with Prof. Jae Sung Lee, and I wrote that I was thankful for the lessons and support I received from him as well. Even small expressions of warmth can stay in a person's memory for a long time, and I wanted to preserve that gratitude rather than letting it disappear from a summary.
-
-My appreciation for **Prof. Andrew Ng** also became especially strong this spring. His educational and research contributions represented to me an example of how knowledge sharing and humane leadership can make it possible for people from many backgrounds to learn and participate. I wrote that I felt deeply grateful for people like him who helped make broader access to learning possible.
-
-For my medical AI work, I also learned from the published work of **Prof. Curtis Langlotz**, especially pioneering research on computer-aided diagnosis and evaluation. When thinking about evaluation for the head and neck cancer diagnostic-assistance pilot study, I referred to approaches used in *Radiology* and in his work. This was an important reminder that gratitude in research is not limited to people who supervise me directly; I also learn from researchers whose published work becomes a foundation for my own decisions.
-
-I therefore want this spring reflection to preserve a wider meaning of gratitude. My direct supervisors were central to my development, but many collaborators, instructors, researchers, classmates, and scholars also contributed pieces of knowledge, feedback, examples, or encouragement that shaped how I think.
 
 ## What I Want to Carry Forward
 
