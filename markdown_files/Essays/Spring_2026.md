@@ -24,7 +24,7 @@ I am also grateful to Professor Shenlong Wang as well, for the inclusive and enc
 
 This spring, I became more aware that none of my learning or research progress was produced by me alone. I have been helped by professors, seniors, juniors, classmates, institutions, all the colleqgures, and people who shared their knowledge publicly, hoping to be a 'moon', which is a tiny part in their universe. 
 
-I remain grateful to **Ewha Womans University, KAIST, Seoul National University, and the University of Illinois Urbana-Champaign** for different stages of my academic growth. Each institution gave invaluable lessons to me, beyond the comparisons. I also remain grateful to the pioneers, and leaders in **Nuclear Medicine**, a field in which I learned more thoroughly about how closely scientific innovation can be connected to saving lives.
+I remain grateful to **Ewha Womans University, KAIST, Seoul National University, and the University of Illinois Urbana-Champaign** for different stages of my academic growth. Each institution gave invaluable lessons to me, beyond the comparisons. I also remain grateful to the pioneers, and leaders in **Nuclear Medicine**, a field in which I learned more thoroughly about how closely scientific innovation can be connected to saving lives. I also grateful for **BRIGHTONIX IMAGING** for their lessons, hoping for their greater successes.
 
 I am also thankful for the lessons of the pioneers and leaders such as **Andrew Ng, Fei-Fei Li, Bill Gates, Yoshua Bengio, and Yann LeCun**, whose work and public educational contributions have repeatedly reminded me that broad access to knowledge can change people's lives in the benevolent directions as well. 
 
