@@ -34,7 +34,7 @@ I also wanted to celebrate Ada Tur's good news, even though I felt a little shy 
 
 I also appreciate Professor Philipp T. Meyer, Professor Dorin Comaniciu, Professor Simon Cherry, and Professor Joyita Dutta because of my further learning about the possibility of constructive alliances and collaborations among researchers and fields, rather than framing different academic communities as competitors. Of course, I appreciated all the the lessons received from them as well. 
 
-About my clinical AI studies, I especially inpired by the work of Professor Curtis Langlotz, who are a pioneering researcher on computer-aided diagnosis and evaluation, following the supervision of Professor Jae Sung Lee as well. This was an important reminder that gratitude in research is not limited to people who supervise me directly. I also learn from researchers whose published work becomes a foundation for my own decisions.
+About my clinical AI studies, I especially inpired by the work of Professor Curtis Langlotz, who are a pioneering researcher on computer-aided diagnosis and evaluation, following the supervision of Professor Jae Sung Lee. This was an important reminder that gratitude in research is not limited to people who supervise me directly. I also grateful to learn from the researchers work whose published work becomes a foundation for my studies.
 
 ... currently editing
 
