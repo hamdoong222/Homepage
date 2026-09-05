@@ -16,7 +16,7 @@ The task examples that are obtained from the ChatGPT are as follows: Acquisition
 <br>
 
 **Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution (June 2026 - August 2026)**<br>
-Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School, Professor Abhijit Chaudhari, Dr. Luke Polson, Professor Kris Thielemans<br>
+Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School, Professor Abhijit Chaudhari, Sangjin Bae, Professor Kris Thielemans<br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 
 Positron Emission Tomography (PET) inherently reconstructs a radiotracer distribution from stochastic decay and detection events, making image formation a statistical inverse problem rather than a direct measurement process. While recent deep learning–based PET super-resolution methods have demonstrated promising visual improvements (Liu et al., 2026), concerns remain regarding quantitative reliability and the potential introduction of artificial uptake patterns. <br>
