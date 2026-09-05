@@ -1,21 +1,11 @@
-# Summer 2026 — Connecting Research with Humanity, Safety, and Broader Social Value
+# Research with Humanity, Safety, Ethics Based Broader Social Value
 
 ## From Research Questions to Broader Questions
 
-During this summer, I recently think that my research interests became connected more strongly to a broader question: **what kind of technological progress actually helps people and other lives live better?** I continued to think about AI, medicine, robotics, scientific discovery, and industry, but I increasingly found myself asking how these areas can contribute to a society that is safer, more accessible, more collaborative, and more humane.
+I have become more convinced that innovation and humanity do not have to be opposing values. In fact, I think a commitment to humanity can accelerate innovation because it allows more people to participate, contribute, learn, and benefit regardless of nationality, race, gender, sexual orientation, appearance, age, disease, disability, and more. And if there are more contributions, the entire 'pie' can be enlarged, so making our sociery more abundant. In the future, if this contributions become large enough, I agree to the necessity of buying products may significantly decrease.
 
-I have become more convinced that innovation and humanity do not have to be opposing values. In fact, I think a commitment to humanity can accelerate innovation because it allows more people to participate, contribute, learn, and benefit regardless of nationality, race, gender, age, institutional position, or other characteristics. When access to knowledge and opportunity becomes broader, the space for meaningful contributions becomes broader as well.
-
-## Medical AI, Safety, and Access
-
-My thoughts about medical AI also became more concrete this summer. I still believe AI-based clinical systems have enormous potential, especially in regions where medical resources are limited. At the same time, I think these systems should be introduced gradually, with sufficient adaptation, verification, and continual refinement before and after deployment.
-
-I personally hope that AI-based clinical systems can learn from clinicians for as long as necessary to reduce safety concerns, rather than treating automation itself as the final goal. If such systems eventually become reliable enough to assist areas with severe shortages of medical expertise, the clinicians who participate in training, verification, and supervision will have made an enormous contribution.
-
-I also think the basic standard of diagnosis should not depend arbitrarily on geography. Resource constraints are real, and compromises may sometimes be unavoidable, but the underlying goal should still be consistent and evidence-based care. This is one reason I remain interested in medical AI: if developed responsibly, it may help reduce gaps in access while preserving clinical standards.
-
-## Continuing Gratitude to My Mentors
-
+## Continuing Gratitude to the Professors
+<!-- 
 My gratitude toward the professors who shaped my research continued throughout the summer.
 
 I remain deeply grateful to **Prof. Jae Sung Lee** for making it possible for me to learn Nuclear Medicine and Medical AI in depth. After listening to his lecture at SNMMI 2026, I continued studying the works cited in the lecture because I wanted to better understand not only the results of the research, but also how creative research in Nuclear Medicine is developed. His devotion to innovation in Nuclear Medicine continues to inspire me.
@@ -24,8 +14,16 @@ I was especially moved when I carefully read the edited version of one of our dr
 
 I also continued to appreciate **Prof. Bohyung Han** and the lessons that shaped my interests in AI and motion editing. I hope I may have another opportunity to conduct and publish research under his direct supervision in the future. His lessons have continued to increase my motivation to study, and I remain grateful that the motion editing research developed as far as it did under his influence.
 
-I also remain grateful for what I learned from **Prof. Dilek Hakkani-Tur**, especially the openness to interdisciplinary questions and the idea that research can be strengthened by seeing problems from more than one disciplinary perspective.
+I also remain grateful for what I learned from **Prof. Dilek Hakkani-Tur**, especially the openness to interdisciplinary questions and the idea that research can be strengthened by seeing problems from more than one disciplinary perspective. -->
 
+## The Vision for Clinical AI
+
+<!-- My thoughts about medical AI also became more concrete this summer. I still believe AI-based clinical systems have enormous potential, especially in regions where medical resources are limited. At the same time, I think these systems should be introduced gradually, with sufficient adaptation, verification, and continual refinement before and after deployment.
+
+I personally hope that AI-based clinical systems can learn from clinicians for as long as necessary to reduce safety concerns, and in the process, the clinicians who participate in training, verification, and supervision will have made an enormous contribution. If such systems eventually become reliable enough to assist areas with severe shortages of medical expertise, than medical experts may save significantly more lives.
+
+I also think the basic standard of diagnosis should not be differnt for different locations. Resource constraints are real, and compromises may sometimes be unavoidable, but the underlying goal should still be consistent and evidence-based care. This is one reason I remain interested in medical AI: if developed responsibly, it may help reduce gaps in access while preserving clinical standards. -->
+<!-- 
 ## Learning from the Wider Research Community
 
 This summer, I found myself learning not only through formal supervision but also through public lectures, workshops, papers, websites, and professional discussions shared openly by researchers and institutions.
@@ -58,16 +56,16 @@ One of the most personal realizations I had this summer is that I genuinely enjo
 
 I hope academic environments can make it easier for students and junior researchers to ask questions without feeling embarrassed about not knowing something yet. I am especially grateful to instructors who make students feel that curiosity is welcome.
 
-Learning has become one of the most stable sources of meaning in my life. I did not always feel this strongly about studying when I was younger, but after entering research, I gradually came to love it. The possibility of continuing to study AI and its harmonization with medicine, robotics, and other fields feels like a gift to me.
+Learning has become one of the most stable sources of meaning in my life. I did not always feel this strongly about studying when I was younger, but after entering research, I gradually came to love it. The possibility of continuing to study AI and its harmonization with medicine, robotics, and other fields feels like a gift to me. -->
 
 
-## Remembering the Wider Circle of People I Learned From
+## Further Remembering and Gratitude for the People I Learned From
 
-When I review my summer notes more carefully, I realize that my gratitude extended to a much wider group of people than I can summarize with only a few names.
+<!-- When I review my summer notes more carefully, I realize that my gratitude extended to a much wider group of people than I can summarize with only a few names.
 
-I appreciated **Prof. Manling Li** for the research ideas and resources I encountered through her public posts, including the ACL 2026 Workshop on Toward Knowledgeable Foundation Models. I was grateful that the workshop was available online, because this kind of public access allows people outside the immediate venue to continue learning from the work.
+I appreciated **Prof. Manling Li** for the research ideas and resources I encountered through her public posts, including the ACL 2026 Workshop on Toward Knowledgeable Foundation Models. I was grateful that the workshop was available online, because this kind of public access allows people outside the immediate venue to continue learning from the work. -->
 
-I also learned from public discussions by **Prof. Yann LeCun**, **Prof. Yoshua Bengio**, and **Prof. Fei-Fei Li**. Their discussions led me to think about open-source models, AI safety, world models, access to AI systems, and how terminology can shape the way we understand a research direction. I did not necessarily treat every public argument as a final answer; rather, I appreciated that these discussions gave me new questions to study.
+<!-- I also learned from public discussions by **Prof. Yann LeCun**, **Prof. Yoshua Bengio**, and **Prof. Fei-Fei Li**. Their discussions led me to think about open-source models, AI safety, world models, access to AI systems, and how terminology can shape the way we understand a research direction. I did not necessarily treat every public argument as a final answer; rather, I appreciated that these discussions gave me new questions to study.
 
 I was happy to recognize similarities between what I had learned in 3D Vision and the curriculum led by **Prof. Gyeongsik Moon** at Korea University. Seeing the quality of the students' projects, including work related to dexterous manipulation, felt both impressive and encouraging to me.
 
@@ -83,12 +81,12 @@ My summer gratitude also included people from earlier stages of my education. I 
 
 I also reflected on the scientific legacy of **Marie Curie**. Her history gave me an opportunity to think not only about scientific achievement, but also about women in the workplace, social exclusion, and the importance of making academic participation more equitable for future generations.
 
-More broadly, I remain grateful to the many people I follow whose posts I may not always publicly react to. Not every lesson produces a visible response from me, but many of those lessons still become part of how I think.
-
+More broadly, I remain grateful to the many people I follow whose posts I may not always publicly react to. Not every lesson produces a visible response from me, but many of those lessons still become part of how I think. -->
+<!-- 
 ## What I Want to Carry Forward
 
 By the end of summer, I think my direction became broader but also clearer. I want to study AI seriously while continuing to connect it to medicine, robotics, scientific discovery, ethics, and formal verification. I want technological progress to expand access rather than narrow it. I want research communities to rely more on evidence, constructive critique, openness, and collaboration than on status or competition.
 
 Most of all, I want to preserve my gratitude. I have learned from professors, collaborators, researchers, institutions, companies, public lectures, papers, workshops, and people who generously shared their thoughts. I may not react publicly to every post or lesson that I appreciate, but I am genuinely thankful for the knowledge I have been able to receive.
 
-I still have much to learn, and I expect many of my ideas to change as I learn more. For now, I want to keep studying, keep refining my work, and keep trying to contribute—even in a small way—to a world where more lives can be healthy, safe, and happy.
+I still have much to learn, and I expect many of my ideas to change as I learn more. For now, I want to keep studying, keep refining my work, and keep trying to contribute—even in a small way—to a world where more lives can be healthy, safe, and happy. -->
