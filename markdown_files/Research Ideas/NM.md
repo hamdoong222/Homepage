@@ -29,8 +29,6 @@ The evaluation framework may can be built is as follows: executing AI-based supe
 
 Reference <br>
 
-Thielemans, Kris, et al. "STIR: software for tomographic image reconstruction release 2." Physics in medicine and biology 57.4 (2012): 867-883. <br>
-
 Hinge, Christian, et al. "A multimodal total-body dynamic [18F] FDG PET/CT/MRI dataset of 100 healthy humans." Scientific Data (2026). <br>
 
 Lee, Junsung, et al. "Low-Resolution Editing is All You Need for High-Resolution Editing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026. <br>
@@ -38,6 +36,8 @@ Lee, Junsung, et al. "Low-Resolution Editing is All You Need for High-Resolution
 Liu, Yan, et al. "NGSE-Corr: A technique for objective clinical evaluation of quantitative-imaging methods without a gold standard." IEEE Transactions on Medical Imaging (2026). <br>
 
 Polson, Luke, Joseph Grudzinski, and Frederick Wilson. "Toward Reduced Patient Scan Times: Full Monte Carlo Torch® Recon for Lu-177 SPECT Enables Improved Precision Through Dual-Energy Window Integration." (2026): 262053-262053. <br>
+
+Thielemans, Kris, et al. "STIR: software for tomographic image reconstruction release 2." Physics in medicine and biology 57.4 (2012): 867-883. <br>
 
 <br>
 
