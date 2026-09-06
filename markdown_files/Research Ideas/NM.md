@@ -1,3 +1,13 @@
+**Mixture-of-Experts Multi-Ring Detector PET Architecture (September 2026)**<br>
+Inspired under Professor Jae Sung Lee, Minseok Yi<br>
+I propose a PET architecture composed of multiple detector rings that have complementary performance characteristics. Based on the previous findings addressing the inherent trade-offs among different PET detector architectures (Lewellen, 2010; Onishi & Ota, 2025), the different detector rings could prioritize complementary functions, such as ultrafast timing resolution, detection sensitivity, energy resolution, or depth-of-interaction accuracy. Coincidence events generated from different detector-ring combinations would therefore carry different uncertainty profiles, which could be incorporated into event-specific TOF kernels or reconstruction models. This design aims to investigate whether a mixture-of-experts multi-ring detector PET system may achieve a better interpretations of patient information from the multi-aspect imaging boosting the performance of PET architectures with the single ring architecture, thereby further mitigating the inherent uncertainty of PET imaging.<br>
+
+Reference<br>
+
+Onishi, Yuya, and Ryosuke Ota. "Alleviating the trade-off between coincidence time resolution and sensitivity using scalable TOF-DOI detectors." Physics in Medicine & Biology 70.6 (2025): 065003. <br>
+
+Lewellen, Thomas K. "The challenge of detector designs for PET." American Journal of Roentgenology 195.2 (2010): 301-309. <br>
+
 **Constructing Open Benchmark Datasets in Nuclear Medicine (July 2026 - August 2026)** <br>
 Inspired under Professor Jae Sung Lee <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
