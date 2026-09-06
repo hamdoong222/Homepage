@@ -8,6 +8,8 @@ Onishi, Yuya, and Ryosuke Ota. "Alleviating the trade-off between coincidence ti
 
 Lewellen, Thomas K. "The challenge of detector designs for PET." American Journal of Roentgenology 195.2 (2010): 301-309. <br>
 
+<br>
+
 **Constructing Open Benchmark Datasets in Nuclear Medicine (July 2026 - August 2026)** <br>
 Inspired under Professor Jae Sung Lee <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
